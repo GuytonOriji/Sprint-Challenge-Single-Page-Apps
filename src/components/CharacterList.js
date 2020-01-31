@@ -65,7 +65,8 @@ const Con = styled.span`
 
 const Skill = styled.span`
 	text-shadow: 0 0 10px blue;
-	flex: 1;
+  flex: 1;
+  width:100%;
   text-align:center;
   overflow:scroll;
   -webkit-text-fill-color:azure;
